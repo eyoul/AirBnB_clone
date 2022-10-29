@@ -14,5 +14,5 @@ a back-end API, and front-end interfacing in a clone of AirBnB.
 The project currently only implements the back-end console.
 
 ## Authors:
-* ** Eyoul Shimeles Wagaye <[Eyoul Shimeles](https://github.com/eyoul)>
-* ** Abdulaziz Ahmed Mohammed <[Abdulaziz Ahmed](https://github.com/zizuAhmedMohammed)>
+* **Eyoul Shimeles Wagaye <[Eyoul Shimeles](https://github.com/eyoul)>
+* **Abdulaziz Ahmed Mohammed <[Abdulaziz Ahmed](https://github.com/zizuAhmedMohammed)>
