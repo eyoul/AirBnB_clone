@@ -85,10 +85,6 @@
 .places .user {
   margin: 20px auto 20px auto;
 }
-
-footer {
-	position: relative;
-}
 .amenities ul, .reviews ul {
 	list-style-type: none;
 	padding-left: 0px;
