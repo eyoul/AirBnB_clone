@@ -1,8 +1,8 @@
 .places {
 	justify-content: center;
-	align-items: center;
-	margin-left: 10px;
-	margin-right: 5px;
+	display: flex;
+	flex-flow: row wrap;
+	width: 100%;	
 }
 .places h1 {
 	font-size: 30px;
@@ -86,9 +86,6 @@
   margin: 20px auto 20px auto;
 }
 
-footer {
-	position: relative;
-}
 .amenities ul, .reviews ul {
 	list-style-type: none;
 	padding-left: 0px;
